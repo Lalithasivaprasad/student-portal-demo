@@ -1,0 +1,5 @@
+name:lalitha siva prasad
+suc:2358250235
+roll:15
+course:BCA
+college:ADITYA SCHOOL OF COMPUTER SCIENCE
